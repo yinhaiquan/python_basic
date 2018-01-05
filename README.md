@@ -1,0 +1,5 @@
+# python_basic
+python基本用法
+
+包含python一些常规用法demo
+包含sqlaichemy数据库orm操作demo
